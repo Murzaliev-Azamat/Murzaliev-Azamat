@@ -5,6 +5,7 @@
 - Position: Frontend developer
 - Tech:
   - Primary:
+  - ![JS](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
     - JS
     - React
     - Redux
