@@ -6,8 +6,8 @@
 - Position: Frontend developer
 - Tech:
   - Primary:
-![Badge](https://img.shields.io/badge/React-16.8-blue?style=for-the-badge&logo=react)
-![Badge](https://img.shields.io/badge/Redux-4.0-purple?style=for-the-badge&logo=redux)
+![Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Badge](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux)
 ![Badge](https://img.shields.io/badge/TypeScript-4.3-blue?style=for-the-badge&logo=typescript)
 ![Badge](https://img.shields.io/badge/Next.js-11.0-blue?style=for-the-badge&logo=next.js)
 ![Badge](https://img.shields.io/badge/Node.js-14.0-green?style=for-the-badge&logo=node.js)
