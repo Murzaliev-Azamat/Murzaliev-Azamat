@@ -4,6 +4,7 @@
 ## Position: Frontend developer
 ### Tech:
 ***Primary:***
+
 ![Badge](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
 ![Badge](https://img.shields.io/badge/Redux-grey?style=for-the-badge&logo=redux)
 ![Badge](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript)
@@ -19,36 +20,17 @@
 ![Badge](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5)
 ![Badge](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3)
 ![Badge](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
-    - JS
-    - React
-    - Redux
-    - Typescript
-    - NextJS
-    - Node.js
-    - Express
-    - NestJS
-    - MongoDB
-    - Mongoose
-    - MySQL
-    - PostgreSQL
-    - TypeORM
-    - HTML
-    - CSS
-    - Git
+ 
 ***Secondary:***
+
 ![Badge](https://img.shields.io/badge/MUI-grey?style=for-the-badge&logo=postgresql)
 ![Badge](https://img.shields.io/badge/Bootstrap-grey?style=for-the-badge&logo=typeorm)
 ![Badge](https://img.shields.io/badge/Sass-grey?style=for-the-badge&logo=html5)
 ![Badge](https://img.shields.io/badge/Scss-grey?style=for-the-badge&logo=css3)
 ![Badge](https://img.shields.io/badge/BEM-grey?style=for-the-badge&logo=git)
 ![Badge](https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=git)
-    - MUI
-    - Bootstrap
-    - Sass
-    - Scss
-    - BEM
-    - Figma
-- Location: Kyrgyzstan
+ 
+### Location: Kyrgyzstan Bishkek
 
 You can see my projects under this block in pinned repositories, but there are more of them - [HERE](https://github.com/Murzaliev-Azamat?tab=repositories)
 
