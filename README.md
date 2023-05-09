@@ -4,21 +4,21 @@
 ## Position: Frontend developer
 ### Tech:
 ***Primary:***
-![Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Badge](https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux)
-![Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![Badge](https://img.shields.io/badge/Next.js-blue?style=for-the-badge&logo=next.js)
-![Badge](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Badge](https://img.shields.io/badge/Express-green?style=for-the-badge&logo=express)
-![Badge](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs)
-![Badge](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![Badge](https://img.shields.io/badge/Mongoose-green?style=for-the-badge&logo=mongoose)
-![Badge](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Badge](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![Badge](https://img.shields.io/badge/TypeORM-orange?style=for-the-badge&logo=typeorm)
-![Badge](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
-![Badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![Badge](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![Badge](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
+![Badge](https://img.shields.io/badge/Redux-grey?style=for-the-badge&logo=redux)
+![Badge](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript)
+![Badge](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js)
+![Badge](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js)
+![Badge](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
+![Badge](https://img.shields.io/badge/NestJS-grey?style=for-the-badge&logo=nestjs)
+![Badge](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb)
+![Badge](https://img.shields.io/badge/Mongoose-grey?style=for-the-badge&logo=mongoose)
+![Badge](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql)
+![Badge](https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge&logo=postgresql)
+![Badge](https://img.shields.io/badge/TypeORM-grey?style=for-the-badge&logo=typeorm)
+![Badge](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5)
+![Badge](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3)
+![Badge](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
     - JS
     - React
     - Redux
@@ -36,12 +36,12 @@
     - CSS
     - Git
 ***Secondary:***
-![Badge](https://img.shields.io/badge/MUI-blue?style=for-the-badge&logo=postgresql)
-![Badge](https://img.shields.io/badge/Bootstrap-orange?style=for-the-badge&logo=typeorm)
-![Badge](https://img.shields.io/badge/Sass-red?style=for-the-badge&logo=html5)
-![Badge](https://img.shields.io/badge/Scss-blue?style=for-the-badge&logo=css3)
-![Badge](https://img.shields.io/badge/BEM-red?style=for-the-badge&logo=git)
-![Badge](https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=git)
+![Badge](https://img.shields.io/badge/MUI-grey?style=for-the-badge&logo=postgresql)
+![Badge](https://img.shields.io/badge/Bootstrap-grey?style=for-the-badge&logo=typeorm)
+![Badge](https://img.shields.io/badge/Sass-grey?style=for-the-badge&logo=html5)
+![Badge](https://img.shields.io/badge/Scss-grey?style=for-the-badge&logo=css3)
+![Badge](https://img.shields.io/badge/BEM-grey?style=for-the-badge&logo=git)
+![Badge](https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=git)
     - MUI
     - Bootstrap
     - Sass
