@@ -1,4 +1,5 @@
 # Hi, I'm Azamat 👋
+<img src="https://user-images.githubusercontent.com/37953498/123493902-5cadd500-d661-11eb-9164-ce3aed61d168.gif" alt="альтернативный текст">
 
 ## About me
 - Position: Frontend developer
