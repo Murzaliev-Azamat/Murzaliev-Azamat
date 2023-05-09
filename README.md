@@ -32,6 +32,6 @@
 You can see my projects under this block in pinned repositories, but there are more of them - [HERE](https://github.com/Murzaliev-Azamat?tab=repositories)
 
 ## Contacts
-- LinkedIn: [https://www.linkedin.com/in/ok-webdev/](https://www.linkedin.com/in/azamat-murzaliev-52541a26a/)
+- LinkedIn: [https://www.linkedin.com/in/azamat-murzaliev-52541a26a/](https://www.linkedin.com/in/azamat-murzaliev-52541a26a/)
 - Email: lirog.kg@gmail.com
 - Phone: +(996)556-720-128
