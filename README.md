@@ -6,6 +6,21 @@
 - Position: Frontend developer
 - Tech:
   - Primary:
+![Badge](https://img.shields.io/badge/React-16.8-blue?style=for-the-badge&logo=react)
+![Badge](https://img.shields.io/badge/Redux-4.0-purple?style=for-the-badge&logo=redux)
+![Badge](https://img.shields.io/badge/TypeScript-4.3-blue?style=for-the-badge&logo=typescript)
+![Badge](https://img.shields.io/badge/Next.js-11.0-blue?style=for-the-badge&logo=next.js)
+![Badge](https://img.shields.io/badge/Node.js-14.0-green?style=for-the-badge&logo=node.js)
+![Badge](https://img.shields.io/badge/Express-4.17-green?style=for-the-badge&logo=express)
+![Badge](https://img.shields.io/badge/NestJS-8.0-red?style=for-the-badge&logo=nestjs)
+![Badge](https://img.shields.io/badge/MongoDB-5.0-green?style=for-the-badge&logo=mongodb)
+![Badge](https://img.shields.io/badge/Mongoose-5.12-green?style=for-the-badge&logo=mongoose)
+![Badge](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
+![Badge](https://img.shields.io/badge/PostgreSQL-13.0-blue?style=for-the-badge&logo=postgresql)
+![Badge](https://img.shields.io/badge/TypeORM-0.2-orange?style=for-the-badge&logo=typeorm)
+![Badge](https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5)
+![Badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![Badge](https://img.shields.io/badge/Git-2.0-red?style=for-the-badge&logo=git)
     - JS
     - React
     - Redux
