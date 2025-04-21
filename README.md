@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/b45e83c7ed9a84db158c0c54eb5d2748356a40f09ebdf3e05c005155e894e382/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a32597a636e6c745a334e6b5a476c6e4e485a786557707a5a475a31637a5a326432396d4f576c6b5a54566961326c30656e4a784d535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f574951304e304f55766569314f573168395a2f67697068792e676966" alt="альтернативный текст" width="300">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmV0N3A5dDRvNmo0aHRoaWV5dDd3b2dqYndod2tsMHNjbXJ1enNpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y3wBjXMffuFjy/giphy.gif" alt="альтернативный текст" width="300">
 
 # Hi, I'm Azamat 👋
 ## Position: Frontend developer
