@@ -1,4 +1,4 @@
-<img src="https://tenor.com/ru/view/purple-gif-21426908" alt="альтернативный текст">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl1eTB6Nmp4b3NocmZ6b3Jia2JiZWhzczcwcjk1ZjFvMjhzMWk0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/52qtwCtj9OLTi/giphy.gif" alt="альтернативный текст">
 
 # Hi, I'm Azamat 👋
 ## Position: Frontend developer
