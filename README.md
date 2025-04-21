@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmV0N3A5dDRvNmo0aHRoaWV5dDd3b2dqYndod2tsMHNjbXJ1enNpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y3wBjXMffuFjy/giphy.gif" alt="альтернативный текст" width="300">
+<img src="https://media.giphy.com/media/lPcbCcPfACi3ncc3cv/giphy.gif?cid=ecf05e47tik740mqu43pwbi2mgsjam1txiy3y2u5dinuvatd&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="альтернативный текст">
 
 # Hi, I'm Azamat 👋
 ## Position: Frontend developer
